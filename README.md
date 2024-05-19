@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robinsrarf
-- 👀 I’m interested in Development and Learning new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on EverythingOnPython
+- 👀 I’m interested in Development and Learning new things.
+- 🌱 I’m currently learning python, C++, Java and Web development.
+- 💞️ I’m looking to collaborate on Creating Something New.
 - 📫 How to reach me robinsrarf@gmail.com
 
 <!---
