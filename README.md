@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robinsrarf
-- 👀 I’m interested in Nothing
+- 👀 I’m interested in Development and Learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on EverythingOnPython
 - 📫 How to reach me robinsrarf@gmail.com
