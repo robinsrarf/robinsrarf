@@ -16,6 +16,8 @@ Projects
 Here are some of the projects I've been working on:
 
     Chip-8 Emulator: An Game Emulator written in Pyhton using Pygame Library. 
+    WikiLinkTree: A Visulaizer for Wikipedia links
+    
 
 Get in Touch
   - Email: robinsrarf@gmail.com
